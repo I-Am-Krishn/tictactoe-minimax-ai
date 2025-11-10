@@ -56,10 +56,6 @@ This game is designed for Unix-like terminals (Linux, macOS) or modern Windows t
 ## 💻 Screenshots
 <img width="768" height="225" alt="image" src="https://github.com/user-attachments/assets/8f1ed350-ec7c-431e-bc36-ff000f6017c4" />
 <img width="646" height="433" alt="image" src="https://github.com/user-attachments/assets/29a2dd60-6abb-414e-9845-abbbf5246099" />
-<img width="646" height="433" alt="image" src="https://github.com/user-attachments/assets/3ebfc525-002b-41bb-a922-b2b62e1d980b" />
-
-
-
 
 ## 👥 Author
 

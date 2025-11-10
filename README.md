@@ -4,11 +4,7 @@ A classic Tic-Tac-Toe game built entirely in C. This project runs in the termina
 
 This was a fun project to learn and implement C programming concepts, including array manipulation, functions, input/output handling, and basic AI algorithms.
 
-
-
-[Image of the game in action]
-
-*(Add a screenshot of your game here!)*
+This is my first project of college. so please support
 
 ## ✨ Features
 
